@@ -1,0 +1,20 @@
+tempo para os veículos se encontrarem é denominado pela formula:
+tempo = distancia / velocidade
+tempo = 100km / 190 km (110km + 80km = 190km)
+tempo = 0,5263 horas ou 31,58 minutos
+
+Calcular a distância percorrida pelo carro:
+distancia percorrida pelo carro = velocidade * tempo
+distancia percorrida pelo carro = 110km * 31,58 minutos / 60 minutos
+distancia percorrida pelo carro = 3473,80 / 60 
+distancia percorrida pelo carro = 57,89km
+
+Calcular a distância percorrida pelo caminhão, levando em conta o tempo gasto nos pedágios:
+distancia percorrida pelo caminhao = velocidade * tempo - distancia perdida nos pedágios
+distancia percorrida pelo caminhao = 80km * (31,58 minutos + 2 * 5 minutos) / 60 minutos - 10km
+distancia percorrida pelo caminhao = 80km * 41,58 minutos / 60 minutos - 10km
+distancia percorrida pelo caminhao = 3.326,4 / 60 minutos - 10km
+distancia percorrida pelo caminhao = 55,44km - 10km
+distancia percorrida pelo caminhao = 45,44km
+
+Portanto, podemos concluir que, quando os dois veículos se cruzarem na estrada, o carro estará mais próximo de Ribeirão Preto, tendo percorrido 57,89km e o caminhão 45,44km.
